@@ -1,7 +1,7 @@
 # Дипломный проект. Определение уязвимых групп населения.
 
 
-[Ноутбук с решениями на GITHUB (Компеиляция датасета)]()
+[Ноутбук с решениями на GITHUB (Компеиляция датасета)](https://github.com/PavelZhuravkov/DS_diplom/blob/master/%22%D0%9A%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F_%D0%B4%D0%B0%D1%82%D0%B0%D1%81%D0%B5%D1%82%D0%B0_%22.ipynb)
 
 [Ноутбук с решениями на GITHUB (EDA, ML)]()
 ## Оглавление
@@ -59,7 +59,7 @@
 
 
 
-[Ноутбук с решениями на GITHUB (Компеиляция датасета)]()
+[Ноутбук с решениями на GITHUB (Компеиляция датасета)](https://github.com/PavelZhuravkov/DS_diplom/blob/master/%22%D0%9A%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F_%D0%B4%D0%B0%D1%82%D0%B0%D1%81%D0%B5%D1%82%D0%B0_%22.ipynb)
 
 [Ноутбук с решениями на GITHUB (EDA, ML)]()
 
