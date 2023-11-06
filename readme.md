@@ -1,8 +1,9 @@
 # Дипломный проект. Определение уязвимых групп населения.
 
 
-[Ноутбук с решениями на GITHUB (Компеиляция датасета) ](https://github.com/PavelZhuravkov/sf_data_science/blob/main/Дипломная_работа_Компиляция_датасета_.ipynb)
-[Ноутбук с решениями на GITHUB (EDA, ML) ](https://github.com/PavelZhuravkov/sf_data_science/blob/main/%22Дипломная_работа_EDA%2C_ML%2C_Analysis_clusters_%22.ipynb)
+[Ноутбук с решениями на GITHUB (Компеиляция датасета)]()
+
+[Ноутбук с решениями на GITHUB (EDA, ML)]()
 ## Оглавление
 
 1. Описание проекта
@@ -58,7 +59,8 @@
 
 
 
-[Ноутбук с решениями на GITHUB (Компеиляция датасета) ](https://github.com/PavelZhuravkov/sf_data_science/blob/main/Дипломная_работа_Компиляция_датасета_.ipynb)
-[Ноутбук с решениями на GITHUB (EDA, ML) ](https://github.com/PavelZhuravkov/sf_data_science/blob/main/%22Дипломная_работа_EDA%2C_ML%2C_Analysis_clusters_%22.ipynb)
+[Ноутбук с решениями на GITHUB (Компеиляция датасета)]()
+
+[Ноутбук с решениями на GITHUB (EDA, ML)]()
 
 arrow_up к оглавлению
