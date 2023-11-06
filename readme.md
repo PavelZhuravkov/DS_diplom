@@ -1,9 +1,9 @@
 # Дипломный проект. Определение уязвимых групп населения.
 
 
-[Ноутбук с решениями на GITHUB (Компеиляция датасета)](https://colab.research.google.com/drive/1VVpjzINRzwsAty0JUL58ICa9zWsaE62V?usp=sharing)
+[Ноутбук с решениями часть 1 (Компеиляция датасета)](https://colab.research.google.com/drive/1VVpjzINRzwsAty0JUL58ICa9zWsaE62V?usp=sharing)
 
-[Ноутбук с решениями на GITHUB (EDA, ML)](https://colab.research.google.com/drive/1hCXkSKlXyBcTZby22fsTjIwyaWFjZqEx?usp=sharing)
+[Ноутбук с решениями часть 2 (EDA, ML)](https://colab.research.google.com/drive/1hCXkSKlXyBcTZby22fsTjIwyaWFjZqEx?usp=sharing)
 ## Оглавление
 
 1. Описание проекта
@@ -59,8 +59,8 @@
 
 
 
-[Ноутбук с решениями на GITHUB (Компеиляция датасета)](https://colab.research.google.com/drive/1VVpjzINRzwsAty0JUL58ICa9zWsaE62V?usp=sharing)
+[Ноутбук с решениями часть 1 (Компеиляция датасета)](https://colab.research.google.com/drive/1VVpjzINRzwsAty0JUL58ICa9zWsaE62V?usp=sharing)
 
-[Ноутбук с решениями на GITHUB (EDA, ML)](https://colab.research.google.com/drive/1hCXkSKlXyBcTZby22fsTjIwyaWFjZqEx?usp=sharing)
+[Ноутбук с решениями часть 2 (EDA, ML)](https://colab.research.google.com/drive/1hCXkSKlXyBcTZby22fsTjIwyaWFjZqEx?usp=sharing)
 
 arrow_up к оглавлению
